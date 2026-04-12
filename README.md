@@ -2,10 +2,13 @@
 
 🎯 Aspiring 3D Web Developer | AI Engineer | CS Student | Problem Solver
 
-🔭 Currently working on: Mastering JavaScript and CS50
-🌱 Learning: C, JavaScript, Three.js (soon), German
+🔭 Currently working on: Mastering JavaScript and CS50.
+
+🌱 Learning: C, JavaScript, Three.js (soon), German.
+
 ⚡ Goal: Build immersive 3D web experiences at the 
-   intersection of mathematics, physics and creativity
+   intersection of mathematics, physics and creativity.
+
 🎓 Class 11 | West Bengal, India | 
    Targeting international CS programs
 
