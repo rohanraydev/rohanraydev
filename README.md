@@ -17,7 +17,7 @@ HTML • CSS • JavaScript • C • Git
 
 ## 🚀 Projects
 - ultraedit-web-clone — Fully responsive landing page clone
-- rock-paper-scissors-js — JS game with lookup table logic
+- rock-paper-scissor-game — JS game with lookup table logic
 
 ## 📈 Currently Building Toward
 - [ ] Complete CS50
