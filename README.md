@@ -15,9 +15,10 @@
 ## 🛠️ Tech Stack
 HTML • CSS • JavaScript • C • Git
 
-## 🚀 Projects
+## 🚀 Mini Projects
 - ultraedit-web-clone — Fully responsive landing page clone
 - rock-paper-scissor-game — JS game with lookup table logic
+- Currency-converter-js - An API base JS currency converter
 
 ## 📈 Currently Building Toward
 - [ ] Complete CS50
